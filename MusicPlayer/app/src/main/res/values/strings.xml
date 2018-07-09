@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string-array name="musicName">
+        <item>Animals</item>
+        <item>Dominion</item>
+        <item>Dying In The Sun</item>
+        <item>Eifersucht</item>
+        <item>Forever</item>
+        <item>HeartBeats</item>
+        <item>Spirit</item>
+        <item>Walk Away</item>
+        <item>Whistle</item>
+        <item>虹之间</item>
+    </string-array>
+    <string-array name="autherName">
+        <item>Martin Garrix</item>
+        <item>ACG</item>
+        <item>The Cranberries</item>
+        <item>Rammstein</item>
+        <item>Stratovarius</item>
+        <item>Amy Diamond</item>
+        <item>Guitar Music</item>
+        <item>Dia Frampton</item>
+        <item>Flo Rida</item>
+        <item>金贵晟</item>
+    </string-array>
+</resources>

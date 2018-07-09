@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="column">
+        <item>闲置交易</item>
+        <item>活动预约</item>
+    </string-array>
+</resources>

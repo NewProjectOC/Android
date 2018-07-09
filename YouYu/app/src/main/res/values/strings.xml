@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">有鱼</string>
+    <string-array name="missionType">
+        <item>任务类型</item>
+        <item>闲置交易</item>
+        <item>校园生活</item>
+    </string-array>
+
+    <string-array name="schoolChoose">
+        <item>请选择学校</item>
+        <item>中国计量大学</item>
+        <item>浙江大学</item>
+        <item>浙江工业大学</item>
+        <item>浙江理工大学</item>
+        <item>浙江工商大学</item>
+        <item>浙江财经大学</item>
+        <item>浙江传媒大学</item>
+        <item>杭州师范大学</item>
+        <item>杭州职业技术学院</item>
+    </string-array>
+</resources>
